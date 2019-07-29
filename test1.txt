@@ -1,0 +1,11 @@
+main(){
+  int i = 1;
+  if(i == 1)
+  {
+    if(i!=1)
+    {
+      show(i+1);
+    }
+    show(i);
+  }
+}

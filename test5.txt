@@ -1,0 +1,7 @@
+main(){
+  char c = 'c';
+  if(c == 'c'){
+    c = c + 1;
+    show(c);
+  }
+} 
